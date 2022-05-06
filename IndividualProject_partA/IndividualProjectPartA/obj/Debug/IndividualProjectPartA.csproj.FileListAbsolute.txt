@@ -1,0 +1,6 @@
+C:\Users\peril\OneDrive\Desktop\CodingBootcap\Assignment\IndividualProject_partA\IndividualProjectPartA\bin\Debug\IndividualProjectPartA.exe.config
+C:\Users\peril\OneDrive\Desktop\CodingBootcap\Assignment\IndividualProject_partA\IndividualProjectPartA\bin\Debug\IndividualProjectPartA.exe
+C:\Users\peril\OneDrive\Desktop\CodingBootcap\Assignment\IndividualProject_partA\IndividualProjectPartA\bin\Debug\IndividualProjectPartA.pdb
+C:\Users\peril\OneDrive\Desktop\CodingBootcap\Assignment\IndividualProject_partA\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.csproj.CoreCompileInputs.cache
+C:\Users\peril\OneDrive\Desktop\CodingBootcap\Assignment\IndividualProject_partA\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.exe
+C:\Users\peril\OneDrive\Desktop\CodingBootcap\Assignment\IndividualProject_partA\IndividualProjectPartA\obj\Debug\IndividualProjectPartA.pdb
